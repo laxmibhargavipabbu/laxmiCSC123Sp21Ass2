@@ -1,4 +1,4 @@
-package Assignment2;
+package laxmiCSC123Sp21Ass2;
 public class SieveOfPrimes
 {
     public static void SieveOfPrime(int n)
